@@ -4,6 +4,7 @@ I am a data scientist in the Research Division at the [CSG Justice Center](https
 
 - 📫 How to reach me: ccallaghan@csg.org
 - 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on building up my JavaScript skills to enhace my communication skills
 
 <!--
 **cllghn/cllghn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
