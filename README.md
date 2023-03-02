@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data scientist in the Research Division at the [CSG Justice Center](https://csgjusticecenter.org/) where I work on data management, visualization, modeling, and communication in R and Python.  
+I am a data science program director in the Research Division at the [CSG Justice Center](https://csgjusticecenter.org/) where I work on data management, visualization, modeling, and communication in R and Python.  
 
 - 📫 How to reach me: ccallaghan@csg.org
 - 😄 Pronouns: he/him/his
