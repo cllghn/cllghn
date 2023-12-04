@@ -4,7 +4,7 @@ I am a data science program director in the Research Division at the [CSG Justic
 
 - 📫 How to reach me: ccallaghan@csg.org
 - 🔭 I’m currently working on my UI accessibility skills to be more inclusive
-- - ⚡ Fun fact: Se habla Español 🇲🇽
+- ⚡ Fun fact: Se habla Español 🇲🇽
 
 <!--
 **cllghn/cllghn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
