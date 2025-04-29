@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a data science program director in the Research Division at the [CSG Justice Center](https://csgjusticecenter.org/) where I work on data management, visualization, modeling, and communication in Python, JS, and R.  
+I am a data science program director in the Research Division at the [CSG Justice Center](https://csgjusticecenter.org/) where I work on data management, visualization, modeling, and communication in Python, JS, R and SQL.  
 
-- 📫 How to reach me: ccallaghan@csg.org
+- 📫 How to reach me: cjcallaghan88@gmail.com
 - 🔭 I’m currently working on my UI accessibility skills to be more inclusive
 - ⚡ Fun fact: Se habla Español 🇲🇽
 
